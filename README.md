@@ -1,7 +1,7 @@
 # myhtml.io
 
 # 111-1 Recommender System final project
-https://hans0803.github.io/myhtml.io/NovieLens_100k_Recommender_System.html
+https://hans0803.github.io/myhtml.io/MovieLens_100k_Recommender_System.html
 
 
 
