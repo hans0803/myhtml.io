@@ -9,3 +9,4 @@ https://hans0803.github.io/myhtml.io/DR_and_ML_mndata.html
 # AMSA
 https://hans0803.github.io/myhtml.io/AMSA_demo_0222.html
 
+https://hans0803.github.io/myhtml.io/banknote.html
